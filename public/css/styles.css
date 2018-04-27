@@ -1,0 +1,24 @@
+nav.framework {
+	width: 100%;
+	min-height: 150px;
+	background-color: orange; 
+	color: white;
+	text-align: center;
+}
+nav.footer {
+	width: 100%;
+	min-height: 120px;
+	padding: 50px 0;
+	background-color: crimson;
+	color: white;
+	font-weight: bold;
+}
+.cursive {
+	font-style: oblique;
+}
+ul {
+	list-style: none;
+}
+.icon-sep {
+	margin-right: 5px;
+}
